@@ -11,4 +11,9 @@ Formatting in Excel, Logic statements, Conditional Formatting, Pivot tables, Xlo
 
 # References
 Alex the Analyst - Excel Series - https://www.youtube.com/c/AlexTheAnalyst
-Bike Sales Date - https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/data
+Bike Sales Data - https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/data
+
+
+
+
+[Excel Project Dataset.xlsx](https://github.com/rithik669/Bike-Sales-Analysis-Using-Excel/files/9953821/Excel.Project.Dataset.xlsx)
